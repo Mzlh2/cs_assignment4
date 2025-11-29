@@ -20,6 +20,8 @@ calculator-project/
 │── calculator.py
 │── README.md
 │── .gitignore
+└── screenshots/
+└── docs/
 ├── overview.md
 ├── development_process.md
 └── future_improvements.md
